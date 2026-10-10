@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "2507.04136",
+    "url": "https://arxiv.org/abs/2507.04136",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2025-07-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2510.14942",
+    "url": "https://arxiv.org/abs/2510.14942",
+    "title": "GroundedPRM: Tree-Guided and Fidelity-Aware Process Reward Modeling for Step-Level Reasoning",
+    "date": "2025-10-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2504.15275",
+    "url": "https://huggingface.co/papers/2504.15275",
+    "title": "Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning",
+    "date": "2025-04-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2501.10069",
+    "url": "https://arxiv.org/html/2501.10069",
+    "title": "A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks",
+    "date": "2025-01-18",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "S2666-389925002181",
+    "url": "https://www.cell.com/patterns/fulltext/S2666-3899%2825%2900218-1",
+    "title": "A Survey on Large Reasoning Models (LRMs)",
+    "date": "2025-10-10",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "promptlayer-o3",
+    "url": "https://blog.promptlayer.com/openai-o1-vs-deepseek-r1-an-analysis-of-reasoning-models/",
+    "title": "OpenAI o1 vs DeepSeek-R1: An Analysis of Reasoning Models",
+    "date": "2025-01-28",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2509.16679",
+    "url": "https://arxiv.org/abs/2509.16679",
+    "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "date": "2025-09-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "S0306457325003358",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306457325003358",
+    "title": "A survey of slow thinking-based reasoning LLMs using reinforcement learning and test-time scaling law",
+    "date": "2025-05-15",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2501.09686",
+    "url": "https://arxiv.org/html/2501.09686",
+    "title": "Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models",
+    "date": "2025-01-15",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2505.02686",
+    "url": "https://arxiv.org/html/2505.02686v2",
+    "title": "A Survey on Reward Models and Learning Strategies for LLMs",
+    "date": "2025-06-12",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2504.04524",
+    "url": "https://arxiv.org/abs/2504.04524",
+    "title": "Trust Region Preference Approximation: A simple and stable reinforcement learning algorithm for LLM reasoning",
+    "date": "2025-04-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2510.01925",
+    "url": "https://arxiv.org/html/2510.01925v3",
+    "title": "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey",
+    "date": "2025-10-01",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2026.acl-long.163",
+    "url": "https://aclanthology.org/2026.acl-long.163.pdf",
+    "title": "A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models",
+    "date": "2026-06-01",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2503.13551",
+    "url": "https://huggingface.co/papers/2503.13551",
+    "title": "Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models",
+    "date": "2025-03-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "tts-scaling-survey",
+    "url": "https://testtimescaling.github.io/",
+    "title": "What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models",
+    "date": "2025-02-10",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2608.27046",
+    "url": "https://arxiv.org/abs/2608.27046",
+    "title": "Performance Foundations of Parallel & Distributed Reasoning Language Models",
+    "date": "2026-08-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "huggingface-deepseek-r1",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+    "title": "DeepSeek-R1 Model Hub Ecosystem and Distilled Open-Source Models",
+    "date": "2025-01-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "10.1007/s44163-026-01980-z",
+    "url": "https://link.springer.com/article/10.1007/s44163-026-01980-z",
+    "title": "A survey of reward hacking in agentic large language model systems",
+    "date": "2026-08-17",
+    "source": "web"
+  }
+]

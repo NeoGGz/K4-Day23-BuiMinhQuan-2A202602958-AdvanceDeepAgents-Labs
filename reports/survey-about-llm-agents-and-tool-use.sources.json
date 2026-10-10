@@ -1,0 +1,194 @@
+[
+  {
+    "n": 1,
+    "id": "d842425e4bf79ba039352da0f658a906",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/d842425e4bf79ba039352da0f658a906-Paper-Conference.pdf",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "react-synergizing",
+    "url": "https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-11-08",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2025.coling-main.185",
+    "url": "https://aclanthology.org/2025.coling-main.185.pdf",
+    "title": "Efficient Tool Use with Chain-of-Abstraction Reasoning",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2305.15334",
+    "url": "https://arxiv.org/abs/2305.15334",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "2023-05-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2307.16789",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Model to Master 16,000+ Real-world APIs",
+    "date": "2023-07-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2307.05525",
+    "url": "https://arxiv.org/abs/2307.05525",
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "date": "2023-07-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2406.13352",
+    "url": "https://arxiv.org/abs/2406.13352",
+    "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "date": "2024-06-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2610.07860",
+    "url": "https://arxiv.org/abs/2610.07860",
+    "title": "WorkflowOps: Learning Agent Collaboration Priors for Multi-Agent Workflow Orchestration",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "ibm-awb-frameworks",
+    "url": "https://developer.ibm.com/articles/awb-comparing-ai-agent-frameworks-crewai-langgraph-and-beeai/",
+    "title": "Comparing AI agent frameworks: CrewAI, LangGraph, and BeeAI",
+    "date": "2025-05-20",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "langchain-ai-agent-frameworks",
+    "url": "https://www.langchain.com/resources/ai-agent-frameworks",
+    "title": "The best AI agent frameworks in 2026",
+    "date": "2026-06-06",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "debflow-2503",
+    "url": "https://arxiv.org/html/2503.23781",
+    "title": "DebFlow: Automating Agent Creation via Agent Debate",
+    "date": "2025-03-23",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2608.24571",
+    "url": "https://arxiv.org/abs/2608.24571",
+    "title": "Joint Optimization of Tool Creation and Use for Large Language Model Agents",
+    "date": "2026-08-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2602.21320",
+    "url": "https://huggingface.co/papers/2602.21320",
+    "title": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data",
+    "date": "2026-02-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2608.02650",
+    "url": "https://huggingface.co/papers/2608.02650",
+    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+    "date": "2026-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2db8ce969b000fe0b3fb172490c33ce8",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/2db8ce969b000fe0b3fb172490c33ce8-Paper-Conference.pdf",
+    "title": "AVATAR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning",
+    "date": "2024-12-01",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2609.01736",
+    "url": "https://arxiv.org/abs/2609.01736",
+    "title": "Harness Engineering in LLM Tool Use via Agent-Native Reusable Tool Primitives",
+    "date": "2026-09-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2304.08244",
+    "url": "https://arxiv.org/abs/2304.08244",
+    "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+    "date": "2023-04-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2507.21504",
+    "url": "https://arxiv.org/abs/2507.21504",
+    "title": "Evaluation and Benchmarking of LLM Agents: A Survey",
+    "date": "2025-07-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2606.22388",
+    "url": "https://huggingface.co/papers/2606.22388",
+    "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
+    "date": "2026-06-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2609.32691",
+    "url": "https://arxiv.org/abs/2609.32691",
+    "title": "Silent Failures in Agentic Security Evaluation: A Validated Harness for Tool-Call Mediation Under Indirect Prompt Injection",
+    "date": "2026-09-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2610.07835",
+    "url": "https://arxiv.org/abs/2610.07835",
+    "title": "Dynamic Construction of Hierarchical Collaboration Graphs for LLM-Based Multi-Agent Reasoning",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2604.13346",
+    "url": "https://huggingface.co/papers/2604.13346",
+    "title": "AgentSPEX: An Agent SPecification and EXecution Language",
+    "date": "2026-04-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2508.13732",
+    "url": "https://huggingface.co/papers/2508.13732",
+    "title": "Self-Organizing Agent Network for LLM-based Workflow Automation",
+    "date": "2025-08-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "swe-debate-acm",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3744916.3787810",
+    "title": "SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution",
+    "date": "2025-01-01",
+    "source": "web"
+  }
+]

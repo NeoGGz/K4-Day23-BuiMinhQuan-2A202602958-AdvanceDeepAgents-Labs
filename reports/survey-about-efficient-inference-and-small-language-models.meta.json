@@ -1,0 +1,25 @@
+{
+  "topic": "survey about efficient inference and small language models",
+  "model": "gemini-3.5-flash-lite",
+  "elapsed_s": 203.4,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "ls": 4,
+    "read_file": 10,
+    "write_todos": 6,
+    "task": 5,
+    "write_file": 2,
+    "execute": 4,
+    "grep": 2
+  },
+  "tokens": {
+    "input": 519500,
+    "output": 7513
+  },
+  "n_sources": 18,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

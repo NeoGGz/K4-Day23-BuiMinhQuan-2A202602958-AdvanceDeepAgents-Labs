@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "2312.14125",
+    "url": "https://arxiv.org/abs/2312.14125",
+    "title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+    "date": "2023-12-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2405.09818",
+    "url": "https://arxiv.org/abs/2405.09818",
+    "title": "Chameleon: Mixed-Modal Early-Fusion Foundation Models",
+    "date": "2024-05-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2309.05519",
+    "url": "https://arxiv.org/abs/2309.05519",
+    "title": "NExT-GPT: Any-to-Any Multimodal LLM",
+    "date": "2023-09-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2408.06072",
+    "url": "https://arxiv.org/abs/2408.06072",
+    "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+    "date": "2024-08-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2406.15252",
+    "url": "https://arxiv.org/abs/2406.15252",
+    "title": "VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation",
+    "date": "2024-06-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2412.20404",
+    "url": "https://arxiv.org/abs/2412.20404",
+    "title": "Open-Sora: Democratizing Efficient Video Production for All",
+    "date": "2024-12-29",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2502.01776",
+    "url": "https://arxiv.org/abs/2502.01776",
+    "title": "Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity",
+    "date": "2025-02-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2505.11497",
+    "url": "https://arxiv.org/abs/2505.11497",
+    "title": "QVGen: Pushing the Limit of Quantized Video Generative Models",
+    "date": "2025-05-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2602.02958",
+    "url": "https://arxiv.org/abs/2602.02958",
+    "title": "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization",
+    "date": "2026-02-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2405.10674v1",
+    "url": "https://arxiv.org/html/2405.10674v1",
+    "title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
+    "date": "2024-05-17",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2501.00103",
+    "url": "https://arxiv.org/abs/2501.00103",
+    "title": "LTX-Video: Realtime Video Latent Diffusion",
+    "date": "2024-12-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2311.17982",
+    "url": "https://arxiv.org/abs/2311.17982",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2023-11-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "CVPR2024_EvalCrafter",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EvalCrafter_Benchmarking_and_Evaluating_Large_Video_Generation_Models_CVPR_2024_paper.pdf",
+    "title": "EvalCrafter: Benchmarking and Evaluating Large Video Generation Models",
+    "date": "2023-10-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2402.12226",
+    "url": "https://arxiv.org/abs/2402.12226",
+    "title": "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling",
+    "date": "2024-02-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2605.22012",
+    "url": "https://arxiv.org/abs/2605.22012",
+    "title": "LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning",
+    "date": "2026-05-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2602.21818",
+    "url": "https://arxiv.org/abs/2602.21818",
+    "title": "SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model",
+    "date": "2026-02-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2411.13503",
+    "url": "https://arxiv.org/abs/2411.13503",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "2024-11-19",
+    "source": "arxiv"
+  }
+]

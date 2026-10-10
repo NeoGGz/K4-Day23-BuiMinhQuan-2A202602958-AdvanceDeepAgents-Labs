@@ -1,0 +1,146 @@
+[
+  {
+    "n": 1,
+    "id": "2409.16694",
+    "url": "https://arxiv.org/abs/2409.16694",
+    "title": "A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms",
+    "date": "2024-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2025-02-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2402.17764",
+    "url": "https://arxiv.org/abs/2402.17764",
+    "title": "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits",
+    "date": "2024-02-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2607.08057",
+    "url": "https://arxiv.org/abs/2607.08057",
+    "title": "Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization",
+    "date": "2026-07-09",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2410.21465",
+    "url": "https://arxiv.org/abs/2410.21465",
+    "title": "ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference",
+    "date": "2024-10-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2401.10774",
+    "url": "https://arxiv.org/abs/2401.10774",
+    "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads",
+    "date": "2024-06-14",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2406.16858",
+    "url": "https://arxiv.org/abs/2406.16858",
+    "title": "EAGLE-2: Faster Inference of Language Models with Context-Aware Dynamic Draft Trees",
+    "date": "2024-06-24",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2607.02574",
+    "url": "https://arxiv.org/abs/2607.02574",
+    "title": "From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving",
+    "date": "2026-06-30",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2502.02631",
+    "url": "https://arxiv.org/abs/2502.02631",
+    "title": "ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization",
+    "date": "2025-02-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2411.03350",
+    "url": "https://arxiv.org/abs/2411.03350",
+    "title": "A Comprehensive Survey of Small Language Models in the Era of Large Language Models",
+    "date": "2024-12-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2401.02385",
+    "url": "https://huggingface.co/papers/2401.02385",
+    "title": "TinyLlama: An Open-Source Small Language Model",
+    "date": "2024-01-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2503.16163",
+    "url": "https://huggingface.co/papers/2503.16163",
+    "title": "SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs",
+    "date": "2025-03-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2610.10411",
+    "url": "https://arxiv.org/abs/2610.10411",
+    "title": "Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2610.07822",
+    "url": "https://arxiv.org/abs/2610.07822",
+    "title": "Nucleus Speculative Decoding: Plausibility-Aware Verification Beyond Exact Distribution",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2610.07780",
+    "url": "https://arxiv.org/abs/2610.07780",
+    "title": "APEX: Speculate smarter, not deeper",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2610.07659",
+    "url": "https://arxiv.org/abs/2610.07659",
+    "title": "DLoop: Looped Speculative Decoding",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2025.acl-long.718",
+    "url": "https://aclanthology.org/2025.acl-long.718.pdf",
+    "title": "Demystifying Small Language Models for Edge Deployment",
+    "date": "2025-07-01",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2408.11796",
+    "url": "https://huggingface.co/papers/2408.11796",
+    "title": "LLM Pruning and Distillation in Practice: The Minitron Approach",
+    "date": "2024-08-21",
+    "source": "hf-search"
+  }
+]
